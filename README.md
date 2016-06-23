@@ -1,1 +1,2 @@
 # anemone
+$ gem install anemone
